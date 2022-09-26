@@ -5,9 +5,7 @@
 
 /* Header */
 .headerLeft img {
-  object-fit: contain;
   width: 135px;
-  /*margin-left: 5px;*/
 }
 
 .header {
@@ -114,9 +112,9 @@
 .sidebarOption:hover,
 .sidebarOption:hover h3,
 .sidebarOption:hover .material-icons,
-.sidebarOption__active,
-.sidebarOption__active h3,
-.sidebarOption__active .material-icons {
+.sidebarOptionActive,
+.sidebarOptionActive h3,
+.sidebarOptionActive .material-icons {
   background-color: #fcecec;
   color: #c04b37;
   font-weight: 800;
@@ -135,11 +133,9 @@
 /* main body */
 .mainBody {
   display: flex;
-  height: 100vh;
 }
 
 body {
-  height: 100vh;
   overflow-y: hidden;
 }
 
