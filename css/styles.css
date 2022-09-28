@@ -42,7 +42,7 @@
 
 .headerMiddle input {
 	border: none;
-	width: 100%;
+	width: 470px;
 	padding: 10px;
 	outline: none;
 	font-size: medium;
@@ -187,15 +187,13 @@ body {
 }
 
 .sectionSelected {
-	background-color: whitesmoke;
+	background-color: #D9DDE1;
 	border-width: 3px;
 	color: red;
 	border-bottom: 3px solid red;
 }
 
-.sectionSelected .icons {
-	color: red;
-}
+
 
 .section:hover {
 	background-color: whitesmoke;
