@@ -30,7 +30,7 @@
 	display: flex;
 	flex: 0.7;
 	align-items: center;
-	background-color: white;
+	background-color: #D9DDE1;
 	padding: 10px;
 	border-radius: 5px;
 }
@@ -42,11 +42,11 @@
 
 .headerMiddle input {
 	border: none;
-	width: 470px;
+	width: 600px;
 	padding: 10px;
 	outline: none;
 	font-size: medium;
-	background-color: white;
+	background-color: #D9DDE1;
 }
 
 .headerRight {
